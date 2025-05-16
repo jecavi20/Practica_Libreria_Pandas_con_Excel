@@ -1,4 +1,4 @@
-# Practica_Libreria_Pandas_con_Excel
+# Practica_Libreria_Pandas_con_Excel_Alura_Latam
 
 Cargar archivos Excel que contienen de varias hojas en dataframe, filtrar los datos requeridos en otros archivos csv y cargar desde Google Sheets
 
